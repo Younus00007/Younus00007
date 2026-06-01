@@ -34,9 +34,7 @@
 <!--                           TYPING ANIMATION                                     -->
 <!-- ████████████████████████████████████████████████████████████████████████████████ -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=🚀+Final-Year+CS+Engineering+Student;🌐+MERN+Stack+%7C+SpringBoot+%7C+FastAPI+Developer;🤖+Building+AI+%2B+Gen-AI+Powered+Applications;🏆+Hackathon+Runner-Up+%7C+Team+Lead+%7C+Builder;💡+Turning+Ideas+Into+Scalable+Products" alt="Typing SVG"/>
-</div>
+
 
 <br/>
 
